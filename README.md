@@ -66,3 +66,7 @@ raise a pull request so it can be reviewed and merged.
 
 ## License
 `terraform-provider-keboola` is provided *"as-is"* under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
